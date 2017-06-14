@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuScene.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Shooting1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" Line="1" Column="1" />
+      <File FileName="Assets\www.Devination.com\FloatingPlayer2DController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ColisaoPI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Preloader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuScene.cs" Line="27" Column="1" />
+      <File FileName="Assets\Scripts\ControleOption.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

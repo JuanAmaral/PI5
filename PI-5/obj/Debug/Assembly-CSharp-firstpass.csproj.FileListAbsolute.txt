@@ -1,0 +1,62 @@
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEditor.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.VR.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\Mono.Cecil.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\Unity.DataContract.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.xml
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEditor.xml
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Android\Juan\New Unity Project 4\Temp\bin\Debug\UnityEngine.VR.xml
+E:\Android\Juan\New Unity Project 4\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\Android\Juan\New Unity Project 4\obj\Debug\Assembly-CSharp-firstpass.dll
+E:\Android\Juan\New Unity Project 4\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Aluno\Downloads\New Unity Project 4 (2)\New Unity Project 4\obj\Debug\Assembly-CSharp-firstpass.pdb
